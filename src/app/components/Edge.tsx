@@ -99,7 +99,7 @@ const Edge = () => {
         </h1>
 
         <p className="text-base md:text-lg text-gray-300 max-w-2xl">
-          EDGE, the flagship event of the Material Advantage chapter of NITR, has been an opportune forum for metallurgy and material science enthusiasts to showcase their scientific, diplomatic, and technical skills. The two-day event's primary focus is to give students exposure to industrial and research-related problems, which would help them develop skills and assimilate greater technical knowledge, thereby bridging the gap between research and technical institutions. It empowers all the local state government colleges by providing them an opportunity to participate in this event and expand their knowledge in the field of metallurgy and materials engineering.
+          EDGE, the flagship event of the Material Advantage chapter of NITR, has been an opportune forum for metallurgy and material science enthusiasts to showcase their scientific, diplomatic, and technical skills. The two-day events primary focus is to give students exposure to industrial and research-related problems, which would help them develop skills and assimilate greater technical knowledge, thereby bridging the gap between research and technical institutions. It empowers all the local state government colleges by providing them an opportunity to participate in this event and expand their knowledge in the field of metallurgy and materials engineering.
 
           The 2-day event includes various Quizzes, Technical paper presentations, Conferences, Guest Talks and many more!
         </p>
